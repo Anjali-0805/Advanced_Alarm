@@ -1,4 +1,4 @@
-# Advanced Alarm Clock using Python 🕰️
+# Advanced Alarm using Python 
 
 ## Overview
 
@@ -32,6 +32,9 @@ This is a **feature-rich Advanced Alarm Clock** developed using Python and Tkint
 
 ## Setup Instructions
 
-1. Install the required libraries:
-   ```bash
-   pip install pygame pillow customtkinter
+1. Install the pygame:
+   ```
+   pip install pygame
+2. Install Pillow:
+      ```
+    pip install pillow customtkinter
