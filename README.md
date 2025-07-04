@@ -37,4 +37,4 @@ This is a **feature-rich Advanced Alarm Clock** developed using Python and Tkint
    pip install pygame
 2. Install Pillow:
       ```
-    pip install pillow customtkinter
+    pip install pillow 
